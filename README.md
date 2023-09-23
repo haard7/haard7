@@ -2,12 +2,12 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=haard7.visitor-badge)
 
-## I'm Computer Engineering Strudent at CHARUSAT!!
+## I'm Graduate Student at Illinois Tech !!
 
 - 🔭 I make nice projects: 
 - 🌱 I’m always open to learn anything creative and innovative
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021-22 Goals: Contribute more to Open Source projects
+- 🥅 2023-24 Goals: Learn and go deep into the cloud computing. 
 - ⚡ Fun fact: I am crazy basketball player 
 
 ## Connect with me: 🤝
