@@ -29,7 +29,7 @@ Oh..forgot to mention that I am currently in IT, where I do all kind of stuff in
 - **Website**: [haardpatel.dev](https://haardpatel.dev)
 - **GitHub**: [github.com/haard7](https://github.com/haard7)
 - **LinkedIn**: [Haard Patel](https://www.linkedin.com/in/haard-patel-73b001196/)
-- **Email**: [haardpateldev@gmail.com](mailto:haardpateldev@gmail.com)
+- **Email**: [haardp301@gmail.com](mailto:haardp301@gmail.com)
 
 ## What I’m focused on
 
