@@ -1,6 +1,15 @@
 ### Hey, I’m Haard Patel 👋
 
-**Software Engineer** building scalable web apps, API Integrations, and Agentic System.
+#### **Software Engineer** with experience building scalable web applications, API Integrations and Agentic System.
+
+Oh..forgot to mention that I am currently in IT, where I do all kind of stuff including 
+- Business Process Automation (Python, n8n, power automate)
+- Data Migrations (Monday.com, APIs, Python, ETL)
+- Excel Formulas/Reports 
+- CRM Integrations and advanced automations
+- IT Administration (Entra ID, Pulseway, RBAC)
+- Deployments and Server management (AWS, DigitalOcean)
+- Internal Tool Development (Streamlit, NodeJs, React) 
 
 ![Profile views](https://komarev.com/ghpvc/?username=haard7&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/haard7?label=Followers&style=flat)
