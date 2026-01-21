@@ -1,3 +1,16 @@
+
+![Profile views](https://komarev.com/ghpvc/?username=haard7&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/haard7?label=Followers&style=flat)
+![GitHub stars](https://img.shields.io/github/stars/haard7?affiliations=OWNER%2CCOLLABORATOR&style=flat&label=Stars)
+
+
+## GitHub stats
+
+![Haard's GitHub stats](https://github-readme-stats.vercel.app/api?username=haard7&show_icons=true&hide_title=true&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haard7&layout=compact)
+
+## About
+
 ### Hey, I’m Haard Patel 👋
 
 #### **Software Engineer** with experience building scalable web applications, API Integrations and Agentic System.
@@ -10,17 +23,6 @@ Oh..forgot to mention that I am currently in IT, where I do all kind of stuff in
 - IT Administration (Entra ID, Pulseway, RBAC)
 - Deployments and Server management (AWS, DigitalOcean)
 - Internal Tool Development (Streamlit, NodeJs, React) 
-
-![Profile views](https://komarev.com/ghpvc/?username=haard7&label=Profile%20views&color=0e75b6&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/haard7?label=Followers&style=flat)
-![GitHub stars](https://img.shields.io/github/stars/haard7?affiliations=OWNER%2CCOLLABORATOR&style=flat&label=Stars)
-
-
-## GitHub stats
-
-![Haard's GitHub stats](https://github-readme-stats.vercel.app/api?username=haard7&show_icons=true&hide_title=true&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haard7&layout=compact)
-
 
 ## Quick links
 
