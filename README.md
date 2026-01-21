@@ -6,6 +6,13 @@
 ![GitHub followers](https://img.shields.io/github/followers/haard7?label=Followers&style=flat)
 ![GitHub stars](https://img.shields.io/github/stars/haard7?affiliations=OWNER%2CCOLLABORATOR&style=flat&label=Stars)
 
+
+## GitHub stats
+
+![Haard's GitHub stats](https://github-readme-stats.vercel.app/api?username=haard7&show_icons=true&hide_title=true&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haard7&layout=compact)
+
+
 ## Quick links
 
 - **Website**: [haardpatel.dev](https://haardpatel.dev)
@@ -15,12 +22,12 @@
 
 ## What I’m focused on
 
-- **AI + workflow automation**: LangChain / agents, event-driven automations, reliable integrations
-- **Open to collaborations** on automation tooling, AI search/retrieval, and developer productivity
+- Agentic AI, Workflow Automation, Cloud Native and Software development
+
 
 ## Highlights
 
-- **2+ years** building production software (web, APIs, automation)
+- **2+ years** building production software (Web, APIs, automation)
 
 ## Tech stack
 
@@ -60,15 +67,7 @@
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![monday.com](https://img.shields.io/badge/monday.com-000000?style=flat&logo=mondaydotcom&logoColor=white)
 
-## Featured project
-
-- **RepoLens — Microservices for GitHub insights** *(React, AWS, Docker, Flask, Python)*  
-  Microservices that analyze GitHub repos via the GitHub API to surface actionable insights; includes CI/CD with Docker.
-
-## GitHub stats
-
-![Haard's GitHub stats](https://github-readme-stats.vercel.app/api?username=haard7&show_icons=true&hide_title=true&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haard7&layout=compact)
+## Featured projects: [https://haardpatel.dev/projects/](https://haardpatel.dev/projects/)
 
 ## Let’s connect
 
