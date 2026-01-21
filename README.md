@@ -1,38 +1,77 @@
-### Hi there, I'm Haard 👋
+### Hey, I’m Haard Patel 👋
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=haard7.visitor-badge)
+**Software Engineer** building scalable web apps, API Integrations, and Agentic System.
 
-## I'm Graduate Student at Illinois Tech !!
+![Profile views](https://komarev.com/ghpvc/?username=haard7&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/haard7?label=Followers&style=flat)
+![GitHub stars](https://img.shields.io/github/stars/haard7?affiliations=OWNER%2CCOLLABORATOR&style=flat&label=Stars)
 
-- 🔭 I make nice projects: 
-- 🌱 I’m always open to learn anything creative and innovative
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023-24 Goals: Learn and go deep into the cloud computing. 
-- ⚡ Fun fact: I am crazy basketball player 
+## Quick links
 
-## Connect with me: 🤝
-[Twitter](https://twitter.com/HaardPatel6)
+- **Website**: [haardpatel.dev](https://haardpatel.dev)
+- **GitHub**: [github.com/haard7](https://github.com/haard7)
+- **LinkedIn**: [Haard Patel](https://www.linkedin.com/in/haard-patel-73b001196/)
+- **Email**: [haardpateldev@gmail.com](mailto:haardpateldev@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/haard-patel-73b001196/)
+## What I’m focused on
 
-[Instagram](https://www.instagram.com)
+- **AI + workflow automation**: LangChain / agents, event-driven automations, reliable integrations
+- **Open to collaborations** on automation tooling, AI search/retrieval, and developer productivity
 
-## 🚀 About Me
+## Highlights
 
+- **2+ years** building production software (web, APIs, automation)
 
-![Logo](https://github-readme-stats.vercel.app/api?username=haard7&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+## Tech stack
 
-## Languages and Tools: 💻
+**Languages**
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="ReactJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
+**Frameworks / Libraries**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+**Databases / Search**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+
+**Cloud / DevOps / Tools**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C1C1C?style=flat&logo=chainlink&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![monday.com](https://img.shields.io/badge/monday.com-000000?style=flat&logo=mondaydotcom&logoColor=white)
+
+## Featured project
+
+- **RepoLens — Microservices for GitHub insights** *(React, AWS, Docker, Flask, Python)*  
+  Microservices that analyze GitHub repos via the GitHub API to surface actionable insights; includes CI/CD with Docker.
+
+## GitHub stats
+
+![Haard's GitHub stats](https://github-readme-stats.vercel.app/api?username=haard7&show_icons=true&hide_title=true&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haard7&layout=compact)
+
+## Let’s connect
+
+- **Email**: [haardp301@gmail.com](mailto:haardp301@gmail.com)
+- **LinkedIn**: [Haard Patel](https://www.linkedin.com/in/haard7/)
 
